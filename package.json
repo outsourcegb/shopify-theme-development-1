@@ -1,0 +1,25 @@
+{
+  "name": "Nishi-Development-Theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:outsourcegb/shopify-theme-development-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com:outsourcegb/shopify-theme-development-1.git"
+  },
+  "homepage": "https://github.com:outsourcegb/shopify-theme-development-1.git",
+  "devDependencies": {
+    "autoprefixer": "^10.3.2",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
